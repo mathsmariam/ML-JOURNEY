@@ -1,6 +1,6 @@
 # My ML Journey 🚀
 
-Documenting my hands-on roadmap in Machine Learning—bridging pure mathematical theory with applied implementations in Python.
+Documenting my hands-on roadmap in Machine Learning, bridging pure mathematical theory with applied implementations in Python.
 
 I am a Pure Mathematics student at the University of Lagos (UNILAG), executing a structured multi-week plan to build strong fundamentals in exploratory data analysis, mathematical modeling, and core machine learning algorithms. Each folder contains runnable code, practical experiments, and documentation of key insights.
 
@@ -32,7 +32,7 @@ To explore or run the notebooks locally:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/mathsmariam/ML-JOURNEY.git](https://github.com/mathsmariam/ML-JOURNEY.git)
+git clone https://github.com/mathsmariam/ML-JOURNEY.git
 
 # Navigate into the project directory
 cd ML-JOURNEY
