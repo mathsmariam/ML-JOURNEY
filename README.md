@@ -1,8 +1,8 @@
 # My ML Journey 🚀
 
-Documenting my hands-on roadmap in Machine Learning, bridging pure mathematical theory with applied implementations in Python.
+I am self-learning and building my skills in Python, Data Science, and Machine Learning through hands-on practice and projects.
 
-I am a Pure Mathematics student at the University of Lagos (UNILAG), executing a structured multi-week plan to build strong fundamentals in exploratory data analysis, mathematical modeling, and core machine learning algorithms. Each folder contains runnable code, practical experiments, and documentation of key insights.
+I am a Mathematics student at the University of Lagos (UNILAG), currently exploring Machine Learning. Each folder contains runnable code, practical experiments, and documentation of key insights.
 
 ---
 
@@ -13,16 +13,16 @@ I am a Pure Mathematics student at the University of Lagos (UNILAG), executing a
 | **[Week 00](./WEEK%200-revision)** | Python & Data Science Refresher | Python, NumPy, Pandas, Matplotlib, Seaborn basics | Completed |
 | **[Week 01](./WEEK%201-house-prices-eda)** | Exploratory Data Analysis | Data cleaning, Distributions, Matplotlib, Seaborn | Completed |
 | **[Week 02](./WEEK%202-mathematics-for-ml)** | Mathematics for ML | Linear algebra, Matrix operations, Vectorization | Completed |
-| **[Week 03](./WEEK%203-Machine_Learning_Fundamentals)** | ML Fundamentals & Regression | Linear Regression, Cost functions, Gradient descent | Completed |
-| **[Week 04](./WEEK%204-Machine_Learning_Algorithms_Contd)** | Supervised & Unsupervised Models | Classification baselines, Clustering intuition | In Progress |
+| **[Week 03](./WEEK%203-Machine_Learning_Fundamentals)** | ML Fundamentals & Regression | Supervised Learning with scikit-learn | Completed |
+| **[Week 04](./WEEK%204-Machine_Learning_Algorithms)** | Supervised Learning | Linear Regression, Logistic Regression, Scikit-learn | In Progress |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python
-- **Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-- **Environment:** Jupyter Notebooks, VS Code, Git/GitHub
+* **Languages:** Python
+* **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+* **Environment:** Jupyter Notebooks, VS Code, Git/GitHub
 
 ---
 
