@@ -38,4 +38,4 @@ git clone https://github.com/mathsmariam/ML-JOURNEY.git
 cd ML-JOURNEY
 
 # Install required dependencies
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
